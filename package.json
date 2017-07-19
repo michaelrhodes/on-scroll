@@ -1,0 +1,23 @@
+{
+  "name": "on-scroll",
+  "version": "1.0.0",
+  "description": "a generic, mobile-friendly scroll listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/on-scroll"
+  },
+  "keywords": [
+    "scroll",
+    "mobile"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/on-scroll/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/on-scroll"
+}
