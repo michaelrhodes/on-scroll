@@ -1,6 +1,6 @@
 # on-scroll
 
-on-scroll is a generic, mobile-friendly scroll listener. It can be used as a basis for modules that need to track element’s scroll offsets, even on mobile devices that don’t emit scroll events during gestures.
+on-scroll is a generic, mobile-friendly scroll listener. It can be used as a basis for modules that need to track element scroll offsets, even on mobile devices that don’t emit scroll events during gestures.
 
 ## Install
 
